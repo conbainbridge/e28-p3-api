@@ -1,0 +1,21 @@
+{
+  "notes": [
+    {
+      "id": "note1",
+      "note": "Note goes here!"
+    },
+    {
+      "id": "note2",
+      "note": "Oh look, another note!"
+  ],
+  "todos": [
+    {
+      "id": "todo1",
+      "todo": "Make lunch"
+    },
+    {
+      "id": "todo2",
+      "todo": "Pay rent"
+    } 
+  ]
+}
