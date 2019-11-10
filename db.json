@@ -1,21 +1,21 @@
 {
   "notes": [
     {
-      "id": "note1",
+      "id": 1,
       "note": "Note goes here!"
     },
     {
-      "id": "note2",
+      "id": 2,
       "note": "Oh look, another note!"
     }
   ],
   "todos": [
     {
-      "id": "todo1",
+      "id": 3,
       "todo": "Make lunch"
     },
     {
-      "id": "todo2",
+      "id": 4,
       "todo": "Pay rent"
     } 
   ]
