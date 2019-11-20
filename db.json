@@ -2,10 +2,12 @@
   "notes": [
     {
       "id": 1,
+      "title": "Note1",
       "note": "Note goes here!"
     },
     {
       "id": 2,
+      "title": "Note2",
       "note": "Oh look, another note!"
     }
   ],
