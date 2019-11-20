@@ -11,11 +11,11 @@
   ],
   "todos": [
     {
-      "id": 3,
+      "id": 1,
       "todo": "Make lunch"
     },
     {
-      "id": 4,
+      "id": 2,
       "todo": "Pay rent"
     } 
   ]
